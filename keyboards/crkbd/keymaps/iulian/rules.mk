@@ -1,6 +1,6 @@
 BOOTMAGIC_ENABLE        = no
 MOUSEKEY_ENABLE         = no
-CONSOLE_ENABLE          = no
+CONSOLE_ENABLE          = yes
 COMMAND_ENABLE          = no
 
 RGBLIGHT_ENABLE         = no

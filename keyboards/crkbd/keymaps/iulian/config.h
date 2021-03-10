@@ -25,17 +25,17 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define MASTER_RIGHT
 // #define EE_HANDS
 
-#define USE_SERIAL
+// #define USE_SERIAL
 
 #define OLED_DISABLE_TIMEOUT
 
-#undef RGBLED_NUM
-// #define RGBLIGHT_ANIMATIONS
-// #define RGBLIGHT_SPLIT
-#define RGBLED_NUM 27
-#define RGBLIGHT_LIMIT_VAL 120
-#define RGBLIGHT_HUE_STEP 10
-#define RGBLIGHT_SAT_STEP 17
-#define RGBLIGHT_VAL_STEP 17
+// #undef RGBLED_NUM
+// // #define RGBLIGHT_ANIMATIONS
+// // #define RGBLIGHT_SPLIT
+// #define RGBLED_NUM 27
+// #define RGBLIGHT_LIMIT_VAL 120
+// #define RGBLIGHT_HUE_STEP 10
+// #define RGBLIGHT_SAT_STEP 17
+// #define RGBLIGHT_VAL_STEP 17
 
 #define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
